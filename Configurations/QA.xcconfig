@@ -1,0 +1,23 @@
+//
+//  QA.xcconfig
+//  eFileManage
+//
+//  Created by Bukka, Ravikumar on 6/5/18.
+//  Copyright © 2018 Bukka, Ravikumar. All rights reserved.
+//
+
+SLASH = /
+
+// QA Image URLs
+server_url_first     = https:$(SLASH)/qa.clientarea.indegene.com/sharemax/retrieve.jsp?id=fb7b185a-58e7-4e1f-9870-654736d9fa2d
+server_url_second     = https:$(SLASH)/clientarea.indegene.com/sharemax/retrieve.jsp?id=fb7b185a-58e7-4e1f-9870-654736d9fa2d
+server_url_third     = https:$(SLASH)/clientarea.indegene.com/sharemax/retrieve.jsp?id=fb7b185a-58e7-4e1f-9870-654736d9fa2d
+server_url_fourth     = https:$(SLASH)/clientarea.indegene.com/sharemax/retrieve.jsp?id=fb7b185a-58e7-4e1f-9870-654736d9fa2d
+
+
+// QA PDF URL
+server_url_pdf     = https:$(SLASH)/clientarea.indegene.com/sharemax/retrieve.jsp?id=fb7b185a-58e7-4e1f-9870-654736d9fa2d
+
+
+// QA Video URL
+server_url_video     = https:$(SLASH)/clientarea.indegene.com/sharemax/retrieve.jsp?id=fb7b185a-58e7-4e1f-9870-654736d9fa2d
